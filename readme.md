@@ -27,7 +27,7 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="./Images/murple_logo.png" alt="logo" width="40"  height="auto" />
+  <img src="./Images/murple_logo.png" alt="logo" width="20"  height="auto" />
   <br/>
 
 </div>
@@ -60,7 +60,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Capstone project] <a name="about-project"></a>
 
-> This project is Developing Capstone using HTML and CSS. I selected template three from Microverse.
+> This project is Developing Capstone project for Module one using HTML and CSS. The design given from Microverse.
 > In this project, Mobile first and Desktop version using Css has been implemented and deployed in github page. It has been added popup modal for both mobile and Desktop screen.
 
 **[Capstone project]** is a the main mechansium to introduce you self to the world market in software development and related field of works.
