@@ -102,7 +102,7 @@ After you're finished please remove all the comments and instructions!
 
 > Find the deployment link the live demo.
 
-- [Live Demo Link](https://brhanuhailu.github.io/)
+- [Live Demo Link](https://brhanuhailu.github.io/brhanuhailuMoudle1CapstoneProject.github.io/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
