@@ -197,11 +197,68 @@
   border: none;
   color: #d3d3d3;
 }
-
+.d-menu-container{
+  display: none;
+}
 @media (min-width: 768px) {
   .hconatiner {
+    background-image: url(../images/mobile-bg.png);
     width: 100%;
     height: 400px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  .menu-link{
+    display: none;
+  }
+  .d-menu-container{
+    width: 100%;
+    height: 150px;
     background-color: green;
+  }
+  .d-menu-link{
+    height: 20%;
+    background-color: #272a31;
+  }
+  .d-menu-link ul{
+    display: flex;
+    list-style-type: none;
+    float: right;
+    padding-right: 180px;
+  }
+  .d-menu-link ul li{
+    list-style-type: none;
+  }
+  .d-menu-link ul li a{
+    text-decoration: none;
+    color: #fff;
+    padding: 10px;
+    opacity: 0.8;
+  }
+  .second-menu{
+    width: 100%;
+    height: 80%;
+    display: flex;
+    background-color: #fff;
+  }
+  .logo{
+   width: 30%;
+   background-color: #d98324;
+
+    
+  }
+  .logo img{
+
+    height: auto;
+
+  }
+  .second-menu ul{
+    display: flex;
+    list-style-type: none;
+    background-color: gold;
+    align-items: center;
+    
   }
 }
