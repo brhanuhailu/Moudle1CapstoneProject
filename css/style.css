@@ -197,9 +197,11 @@
   border: none;
   color: #d3d3d3;
 }
-.d-menu-container{
+
+.d-menu-container {
   display: none;
 }
+
 @media (min-width: 768px) {
   .hconatiner {
     background-image: url(../images/mobile-bg.png);
@@ -210,55 +212,60 @@
     background-attachment: fixed;
     background-size: cover;
   }
-  .menu-link{
+
+  .menu-link {
     display: none;
   }
-  .d-menu-container{
+
+  .d-menu-container {
     width: 100%;
     height: 150px;
     background-color: green;
   }
-  .d-menu-link{
+
+  .d-menu-link {
     height: 20%;
     background-color: #272a31;
   }
-  .d-menu-link ul{
+
+  .d-menu-link ul {
     display: flex;
     list-style-type: none;
     float: right;
     padding-right: 180px;
   }
-  .d-menu-link ul li{
+
+  .d-menu-link ul li {
     list-style-type: none;
   }
-  .d-menu-link ul li a{
+
+  .d-menu-link ul li a {
     text-decoration: none;
     color: #fff;
     padding: 10px;
     opacity: 0.8;
   }
-  .second-menu{
+
+  .second-menu {
     width: 100%;
     height: 80%;
     display: flex;
     background-color: #fff;
   }
-  .logo{
-   width: 30%;
-   background-color: #d98324;
 
-    
+  .logo {
+    width: 30%;
+    background-color: #d98324;
   }
-  .logo img{
 
+  .logo img {
     height: auto;
-
   }
-  .second-menu ul{
+
+  .second-menu ul {
     display: flex;
     list-style-type: none;
     background-color: gold;
     align-items: center;
-    
   }
 }
