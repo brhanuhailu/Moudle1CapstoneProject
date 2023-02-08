@@ -12,15 +12,14 @@
 <body>
     <header class="hconatiner">
         <div class="nav-conatiner">
-            <button class="menu-link" type="button"><img src="images/hamburger_icon.png" alt="menus"></button>
              <nav class="d-menu-container">
                 <div class="d-menu-link">
                   <ul>
-                      <li class="dnone"><a href="#"><img src="images/github.svg" alt="Twitter"></a></li>
-                      <li class="dnone"><a href="#"><img src="images/twitter.svg" alt="Twitter"></a></li>
-                      <li class="dnone"><a href="#">Tigrigna</a></li>
-                      <li class="dnone"><a href="#">Contact</a></li>
-                      <li class="dnone"><a href="#">Logout</a></li>
+                      <li><a href="#"><img src="images/github.svg" alt="Twitter"></a></li>
+                      <li><a href="#"><img src="images/twitter.svg" alt="Twitter"></a></li>
+                      <li><a href="#">Tigrigna</a></li>
+                      <li><a href="#">Contact</a></li>
+                      <li><a href="#">Logout</a></li>
                   </ul>
                 </div>
                     <div class="heder-list">
@@ -28,15 +27,33 @@
                             <a href="index.html"><img src="images/footerlogo.PNG" alt="Logo"></a>
                         </div>
                         <ul class="menu-bar-bottom">
-                            <li class="dnone"><a class="active" href="about.html">About</a></li>
-                            <li class="dnone"><a href="about.html">Program</a></li>
-                            <li class="dnone"><a href="about.html">Join</a></li>
-                            <li class="dnone"><a href="about.html">Sponsor</a></li>
-                            <li class="dnone"><a href="about.html">News</a></li>
-                            <li class="dnone"><a class="active" href="about.html">Register</a></li>
+                            <li><a class="active" href="about.html">About</a></li>
+                            <li><a href="about.html">Program</a></li>
+                            <li><a href="about.html">Join</a></li>
+                            <li><a href="about.html">Sponsor</a></li>
+                            <li><a href="about.html">News</a></li>
+                            <li><a class="active" href="about.html">Register</a></li>
                         </ul>
                     </div>
              </nav> 
+        <!------------------------start mobile menu section--------------------->
+           <nav class="mobile-menu">
+            <button class="menu-link" type="button"><img src="images/hamburger_icon.png" alt="menus"></button>
+            <div class="nav-mobile">
+              <div class="nav-mobile-popup">
+                  <p class="close-popup">&times;</p>
+                  <ul>
+                      <li><a href="about.html">About</a></li>
+                      <li><a href="about.html">Program</a></li>
+                      <li><a href="about.html">Join</a></li>
+                      <li><a href="about.html">Sponsor</a></li>
+                      <li><a href="about.html">News</a></li>
+                      <li><a href="about.html">Register</a></li>
+                  </ul>
+              </div>
+           </div>   
+           </nav>
+           <!-------------------------end mobile menu------------------------------>
         </div>
         <div class="cott-title">
             <p class="pargraph">"Hello! Sharing world"</p>
@@ -90,5 +107,7 @@
         <button class="join-program" type="button">Join TIG Global Meet Now</button>
         <a class="See-the-whole" href="">SEE THE WHOLE PROGRAM</a>
     </main>
+    <!-----javascript-->
+    <script src="index.js"></script>
 </body>
 </html>
