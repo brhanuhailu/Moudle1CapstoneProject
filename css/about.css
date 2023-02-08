@@ -28,7 +28,7 @@
   background-attachment: fixed;
   background-size: cover;
   width: 100%;
-  height: 720px;
+  height: 760px;
 }
 
 .nav-mobile {
@@ -321,4 +321,141 @@
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   opacity: 0.8;
   font-size: 1rem;
+}
+
+.mainpragrphdesktop {
+  display: none;
+}
+
+.licensenewpara {
+  display: none;
+}
+
+@media (min-width: 768px) {
+  .hconatiner {
+    width: 100%;
+    height: 650px;
+  }
+
+  .cott-title {
+    width: 100%;
+  }
+
+  .cott-title p {
+    display: none;
+  }
+
+  .title {
+    width: 90%;
+    margin: auto;
+  }
+
+  .title h1 {
+    text-align: center;
+    padding-top: 40px;
+    padding-left: 220px;
+    padding-right: 260px;
+    font-size: 2.8rem;
+  }
+
+  .description {
+    margin: auto;
+    width: 60%;
+  }
+
+  .maintitle {
+    padding-top: 30px;
+    opacity: 0.7;
+  }
+
+  .mainpragrph {
+    display: none;
+  }
+
+  .deskpra {
+    width: 60%;
+    margin: auto;
+  }
+
+  .mainpragrphdesktop {
+    margin-top: 30px;
+    display: block;
+    padding: 10px 30px;
+    text-align: center;
+    font-size: 16px;
+    opacity: 0.72;
+  }
+
+  .Pro-container {
+    width: 100%;
+    margin-bottom: 45px;
+  }
+
+  .progamlist {
+    width: 40%;
+    height: 160px;
+    margin: auto;
+  }
+
+  .learn-img img {
+    width: 100%;
+    height: 160px;
+  }
+
+  .indicator {
+    padding-left: 48%;
+  }
+
+  .secondcontainer {
+    display: flex;
+    flex-direction: row;
+    width: 60%;
+    margin: auto;
+  }
+
+  .confrencetg {
+    margin-top: 20px;
+    margin-bottom: 35px;
+  }
+
+  .submain h2 {
+    opacity: 0.8;
+  }
+
+  .abindicator {
+    padding-left: 48%;
+  }
+
+  .socialmedial {
+    display: none;
+  }
+
+  .footdesc {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 6px;
+    width: 100%;
+    height: 160px;
+    background-color: #272a31;
+    color: #fff;
+  }
+
+  .liecsedescript {
+    display: none;
+  }
+
+  .licensenewpara {
+    display: block;
+    opacity: 0.8;
+    padding-top: 50px;
+    padding-right: 170px;
+    text-align: justify;
+  }
+
+  .logofo img {
+    width: 320px;
+    padding-left: 120px;
+    box-sizing: border-box;
+  }
 }
