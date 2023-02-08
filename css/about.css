@@ -31,7 +31,7 @@
   height: 760px;
 }
 
-.nav-mobile {
+.nav-conatiner {
   width: 100%;
   display: flex;
   margin: auto;
@@ -335,6 +335,10 @@
   .hconatiner {
     width: 100%;
     height: 650px;
+  }
+
+  .nav-conatiner {
+    width: 100%;
   }
 
   .cott-title {
