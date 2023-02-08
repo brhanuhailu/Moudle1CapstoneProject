@@ -36,7 +36,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📗 Table of Contents
 
-- [📖 Developing Portifolio website](#about-project)
+- [📖 Developing Module one Capstone Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
@@ -61,7 +61,7 @@ After you're finished please remove all the comments and instructions!
 # 📖 [Capstone project] <a name="about-project"></a>
 
 > This project is Developing Capstone project for Module one using HTML and CSS. The design given from Microverse.
-> In this project, Mobile first and Desktop version using Css has been implemented and deployed in github page. It has been added popup modal for both mobile and Desktop screen.
+> In this project, Mobile first and Desktop version using Css has been implemented and deployed in github page. It has been added popup menu for mobile screen.
 
 **[Capstone project]** is a the main mechansium to introduce you self to the world market in software development and related field of works.
 
@@ -89,11 +89,11 @@ After you're finished please remove all the comments and instructions!
 
 > This project has the following features
 
-- Provide infomration about the developers
-- Show about section pages and galary sections
-- Consist Cantact information form
-- Shows popup window that demostrate the livelink and source of the project
-- Shows the list of Projects done and to be done
+- Provide infomration about the Confrence program in TIG
+- Show Guset speakers in the feature section
+- Consist two main heading for deskto version
+- Shows popup menu that demostrate the mobile screen for both about and home pages
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
@@ -102,7 +102,7 @@ After you're finished please remove all the comments and instructions!
 
 > Find the deployment link the live demo.
 
-- [Live Demo Link](https://brhanuhailu.github.io/brhanuhailuMoudle1CapstoneProject.github.io/)
+- [Live Demo Link](https://brhanuhailu.github.io/Moudle1CapstoneProject/index.html)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -138,7 +138,7 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone https://github.com/brhanuhailu/portifolio.git
+  https://github.com/brhanuhailu/Moudle1CapstoneProject.git
 ```
 --->
 
@@ -246,6 +246,8 @@ If you like this project like it.
 > Give credit to everyone who inspired your codebase.
 
 I would like to thank Microverse organization
+and to Cindy Shin in Behance[https://www.behance.net/adagio07] for the design.
+image.png
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -255,7 +257,7 @@ I would like to thank Microverse organization
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT]() licensed.
+This project is [MIT](https://github.com/brhanuhailu/Moudle1CapstoneProject) licensed.
 
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
