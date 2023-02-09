@@ -305,10 +305,7 @@
 }
 
 .lightFooter img {
-  max-width: 40%;
-  max-height: 40%;
-  object-fit: cover;
-  margin-right: 1rem;
+  width: auto;
 }
 
 .partner ul img {
@@ -452,6 +449,18 @@
     padding: 1rem 0;
     background-color: var(--color-black);
     color: var(--color-lightgrey);
+  }
+
+  .logof {
+    padding-right: 10px;
+  }
+
+  .logof img {
+    width: auto;
+  }
+
+  .footerpara {
+    margin-left: 10px;
   }
 
   .lightFooter {
