@@ -28,7 +28,7 @@
   background-attachment: fixed;
   background-size: cover;
   width: 100%;
-  height: 760px;
+  height: auto;
 }
 
 .nav-conatiner {
@@ -111,14 +111,14 @@
   opacity: 0.9;
   text-align: center;
   text-decoration: underline solid #272a31;
-  margin-bottom: 20px;
+  padding-bottom: 20px;
 }
 
 /* starting main section for mobile screen */
 .main {
   background-color: #fff;
   width: 100%;
-  margin-bottom: 100px;
+  margin-bottom: 20px;
 }
 
 .submain {
@@ -144,6 +144,14 @@
   padding-right: 40px;
   padding-bottom: 40px;
   opacity: 0.8;
+}
+
+.mainpragrphdesktop {
+  display: none;
+}
+
+.licensenewpara {
+  display: none;
 }
 
 .Pro-container {
@@ -249,7 +257,7 @@
 }
 
 /* ---------------Partner Section start--------------- */
-.partnerMobile {
+.partner {
   display: block;
   background-color: #2e3139;
   color: var(--color-white);
@@ -262,14 +270,14 @@
   backdrop-filter: blur(0.5rem);
 }
 
-.partnerMobile h2 {
+.partner h2 {
   margin: 1.2rem 0.5rem;
   font-size: 1.2rem;
   letter-spacing: 0.05rem;
   color: var(--color-lightgrey);
 }
 
-.partnerMobile .indicator {
+.indicators {
   width: 1.5rem;
   margin-bottom: 1rem;
   margin-top: 0;
@@ -278,7 +286,7 @@
   opacity: 0.8;
 }
 
-.partnerMobile ul {
+.partner ul {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
@@ -286,7 +294,7 @@
   align-items: center;
 }
 
-.partnerMobile li {
+.partner li {
   list-style-type: none;
   display: flex;
   flex-direction: row;
@@ -303,7 +311,7 @@
   margin-right: 1rem;
 }
 
-.partnerMobile ul img {
+.partner ul img {
   margin-right: 0.25rem;
   width: 1.5rem;
   height: 1.5rem;
@@ -419,6 +427,11 @@
     margin-bottom: 35px;
   }
 
+  .main {
+    width: 100%;
+    margin-top: 10px;
+  }
+
   .submain h2 {
     opacity: 0.8;
   }
@@ -427,7 +440,7 @@
     padding-left: 48%;
   }
 
-  .partnerMobile {
+  .partner {
     display: none;
   }
 
