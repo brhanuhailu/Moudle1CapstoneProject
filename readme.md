@@ -164,10 +164,6 @@ Example command:
 ```
 --->
 
-### Usage
-
-To run the project, execute the following command:
-
 <!--
 Example command:
 
@@ -175,10 +171,6 @@ Example command:
   rails server
 ```
 --->
-
-### Run tests
-
-To run tests, run the following command:
 
 <!--
 Example command:
@@ -191,6 +183,7 @@ Example command:
 ### Deployment
 
 You can deploy this project using:
+github page
 
 <!--
 Example:
