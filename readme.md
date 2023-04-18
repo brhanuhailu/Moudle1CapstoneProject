@@ -1,30 +1,5 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
-
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
   <img src="./Images/murple_logo.png" alt="logo" width="20"  height="auto" />
@@ -60,7 +35,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Capstone project] <a name="about-project"></a>
 
-> This project is Developing Capstone project for Module one using HTML and CSS. The design given from Microverse.
+> This project is Developing Capstone project for Module one using HTML, CSS and some JavaScript. The design given from Microverse.
 > In this project, Mobile first and Desktop version using Css has been implemented and deployed in github page. It has been added popup menu for mobile screen.
 
 **[Capstone project]** is a the main mechansium to introduce you self to the world market in software development and related field of works.
@@ -127,6 +102,7 @@ clone the repository from this github.
 ### Prerequisites
 
 In order to run this project you need:
+clone the repository run on the browser
 
 <!--
 Example command:
@@ -138,10 +114,6 @@ Example command:
 ```
  -->
 
-### Setup
-
-Clone this repository to your desired folder:
-
 <!--
 Example commands:
 
@@ -150,10 +122,6 @@ Example commands:
   https://github.com/brhanuhailu/Moudle1CapstoneProject.git
 ```
 --->
-
-### Install
-
-Install this project with:
 
 <!--
 Example command:
